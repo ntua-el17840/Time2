@@ -1,0 +1,6 @@
+Run complete after 1000 queries with 8 workers (Overall query rate 16.52514 queries/sec):
+InfluxDB query performance:
+min:    318.26216ms, med:    439.26307ms, mean:    465.17336ms, max:  845.97434ms, stddev:    46.51734ms, sum:  465.17336sec, count: 1000
+all queries                        :
+min:    318.26216ms, med:    439.26307ms, mean:    465.17336ms, max:  845.97434ms, stddev:    46.51734ms, sum:  465.17336sec, count: 1000
+wall clock time: 465.173359sec

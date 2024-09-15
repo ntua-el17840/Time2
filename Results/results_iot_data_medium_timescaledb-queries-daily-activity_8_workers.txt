@@ -1,0 +1,6 @@
+Run complete after 1000 queries with 8 workers (Overall query rate 0.46 queries/sec):
+TimescaleDB daily truck activity per fleet per model:
+min:  7185.15ms, med: 11542.01ms, mean: 17189.50ms, max: 61353.98ms, stddev: 13052.13ms, sum: 17189.5sec, count: 1000
+all queries                                         :
+min:  7185.15ms, med: 11542.01ms, mean: 17189.50ms, max: 61353.98ms, stddev: 13052.13ms, sum: 17189.5sec, count: 1000
+wall clock time: 2151.799021sec

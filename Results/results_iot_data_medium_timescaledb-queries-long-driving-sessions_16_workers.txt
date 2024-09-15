@@ -1,0 +1,6 @@
+Run complete after 1000 queries with 16 workers (Overall query rate 10.77 queries/sec):
+TimescaleDB trucks with longer driving sessions:
+min:   645.54ms, med:  1352.13ms, mean:  1477.46ms, max: 4092.16ms, stddev:   541.37ms, sum: 1477.5sec, count: 1000
+all queries                                    :
+min:   645.54ms, med:  1352.13ms, mean:  1477.46ms, max: 4092.16ms, stddev:   541.37ms, sum: 1477.5sec, count: 1000
+wall clock time: 92.904066sec
